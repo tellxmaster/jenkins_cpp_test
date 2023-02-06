@@ -1,1 +1,1 @@
-Ingrese el elemento 1: Ingrese el elemento 2: Ingrese el elemento 3: Ingrese el elemento 4: Ingrese el elemento 5: Los elementos del arreglo ordenados son: 0 1 2 3 5
+Ingrese el elemento 1: Ingrese el elemento 2: Ingrese el elemento 3: Ingrese el elemento 4: Ingrese el elemento 5: Los elementos del arreglo ordenados son: 0 1 2 3
